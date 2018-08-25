@@ -1,2 +1,2 @@
 # background-generator
-# --> under-construction
+A simple background generator based on linear gradients.
